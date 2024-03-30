@@ -5,14 +5,13 @@
 -->
 ### Hi I am happy to meet you and I am happy to learn.
 
-### Here are some ideas to get you started:
 
-- 🔭 a HTML/CSS/Javascript project
-- 🌱 Data science, right now Agile web development and data warehousing
-- 👯 My project
-- 🤔 OCaml
-- 💬 Physics maybe
-- 📫 https://www.linkedin.com/in/aviv-silman-5a82a9145/
+- 🔭 currently on: a HTML/CSS/Javascript project
+- 🌱 Learning: Data science, right now Agile web development and data warehousing
+- 👯 focused: My project highest grade + pride
+- 🤔 want to learn: OCaml
+- 💬 ask me: Physics maybe
+- 📫 find/message me: https://www.linkedin.com/in/aviv-silman-5a82a9145/
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: 98 ATAR, got into ASO summer camp in physics in 2019
 
